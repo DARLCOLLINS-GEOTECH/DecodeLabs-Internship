@@ -1,4 +1,6 @@
-# Project 1 Documentation --- Data Cleaning and Preparation
+# Project 1 Documentation: 
+---
+## Data Cleaning and Preparation
 
 ## What the project required
 
