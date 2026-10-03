@@ -6,7 +6,7 @@ dataset to demonstrate the progression from raw data preparation to
 exploratory analysis and business-focused visualization. The final Excel
 workbook consolidates my work for **Project 1 (Data Cleaning and
 Preparation), Project 2 (Exploratory Data Analysis), and Project 4 (Data
-Visualization)**.
+Visualization).
 
 ## Project Overview
 
