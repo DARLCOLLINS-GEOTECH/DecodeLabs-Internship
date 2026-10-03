@@ -1,4 +1,4 @@
-# DecodeLabs Project 1 --- Data Cleaning
+## DecodeLabs Project 1 --- Data Cleaning
 
 This project prepares an e-commerce order dataset for reliable analysis
 by identifying and resolving common data-quality issues in Excel. It
